@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **Aiden.Jolleyruhn@gmail.com**
 
-- ⚡ Fun fact **I'm in my 4th year of Software Engineering @ Ontario Tech University**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
