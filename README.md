@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiden</h1>
 <h3 align="center">An aspiring full-stack developer</h3>
 
-- 🔭 I’m currently working on [SocketIO Chatroom](https://github.com/aiden5221/sockets-react)
-
 - 🌱 I’m currently learning **Typescript, Django, and AWS**
 
 - 👯 I’m looking to collaborate on **Full-stack applications**
